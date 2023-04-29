@@ -24,4 +24,4 @@ jobs:
     steps:
       # check ansible version on the node
       - name: Check Ansible
-        run: ansible --version
+        run: ifconfig
